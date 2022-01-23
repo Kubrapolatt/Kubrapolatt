@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubrapolatt&show_icons=true&title_color=fff947&text_color=fafafa&bg_color=7000cc&hide_border=true&locale=en" alt="kubrapolatt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrapolatt&theme=dark" alt="kubrapolatt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrapolatt&theme=highcontrast" alt="kubrapolatt" /></p>
 
 
 
