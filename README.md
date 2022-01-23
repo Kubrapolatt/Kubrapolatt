@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrapolatt&" alt="kubrapolatt" /></p>
 
-<h3>Snake eating my contribution graph</h3>
-##![snake svg](https://github.com/Kubrapolatt/Kubrapolatt/blob/output/github-contribution-grid-snake.svg)
+## Snake eating my contribution graph 🐍😱
+![snake svg](https://github.com/Kubrapolatt/Kubrapolatt/blob/output/github-contribution-grid-snake.svg)
