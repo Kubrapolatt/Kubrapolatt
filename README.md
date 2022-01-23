@@ -29,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrapolatt&" alt="kubrapolatt" /></p>
 
+![snake svg](https://github.com/Kubrapolatt/Kubrapolatt/blob/output/github-contribution-grid-snake.svg)
