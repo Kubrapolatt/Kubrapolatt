@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **SQL,Java,Lambda,HTML**
 
-- 📫 How to reach me **kubrapolat1912@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +24,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrapolatt&theme=highcontrast" alt="kubrapolatt" /></p>
 
 
-## Snake eating my contribution graph 🐍😱
+## Snake eating my contribution graph😱
 ![snake svg](https://github.com/Kubrapolatt/Kubrapolatt/blob/output/github-contribution-grid-snake.svg)
